@@ -73,6 +73,10 @@ pm-buddy/
 
 Claude's cross-session memory is treated as ground truth in every future conversation. If daily reflections leak straight in, you poison future reasoning with half-formed takes. The buddy's `pm_buddy/` folder is a quarantine that only graduates facts up after you explicitly say so — modeled loosely on git's index/HEAD split.
 
+## Writing
+
+- [Why Your AI Assistant Should Argue With You Before It Helps You](posts/why-your-ai-should-argue-with-you.md) — the design philosophy behind pm-buddy and why "staging vs canonical" memory is the most important piece.
+
 ## Credits
 
 Built on Claude Code's skill system. Inspired by the observation that the best PM mentors I've had spent more time questioning my plan than helping me execute it.
